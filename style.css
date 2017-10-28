@@ -1,0 +1,86 @@
+body {
+    font-family: Century Gothic;
+    background-image: url(background.jpg);
+    background-color: #657CF0;
+    background-position: center center;
+    background-attachment: fixed;
+    color: #314774;
+}
+
+h1 {
+	color: white;
+	width: 50%;
+	margin: 20px auto;
+	font-size: 50px;
+}
+
+div, img {
+	margin: 10px;
+	padding: 10px;
+	border-radius: 10px;
+}
+
+a {
+	text-decoration: none;
+	color: #445E8F;
+	font-weight: bold;
+}
+
+a:hover {
+	color: #597CAC;
+}
+
+.about {
+	width: 90%;
+	height: 450px;
+	margin: 0px 100px;
+}
+
+.box {
+	float: left;
+	width: 30%;
+	height: auto;
+	/*border: 2px solid #4A5AF9;*/
+}
+
+.name {
+	width: auto;
+	background: #FFFFFFFF;
+}
+
+.card {
+	width: auto;
+	height: 100%;
+	background: #FFFFFFFF;
+}
+
+.image {
+	width: 60%;
+	float: right;
+	padding: 15px;
+	background: #FFFFFFFF;
+}
+
+.experience {
+	width: 100px;
+	background: #FFFFFFFF;
+	width: 90%;
+	height: auto;
+	margin: 20px 100px;
+	/*border: 2px solid #FF0000;*/
+
+}
+
+.contacts {
+	width: 100px;
+	background: #FFFFFFFF;
+	width: 90%;
+	height: auto;
+	margin: 20px 100px;
+	/*border: 2px solid #FF0000;*/
+}
+
+.big {
+	font-size: 14pt;
+	margin: 5px;
+}
