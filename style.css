@@ -45,25 +45,25 @@ a:hover {
 
 .name {
 	width: auto;
-	background: #FFFFFFFF;
+	background: white;
 }
 
 .card {
 	width: auto;
 	height: 100%;
-	background: #FFFFFFFF;
+	background: white;
 }
 
 .image {
 	width: 60%;
 	float: right;
 	padding: 15px;
-	background: #FFFFFFFF;
+	background: white;
 }
 
 .experience {
 	width: 100px;
-	background: #FFFFFFFF;
+	background: white;
 	width: 90%;
 	height: auto;
 	margin: 20px 100px;
@@ -73,7 +73,7 @@ a:hover {
 
 .contacts {
 	width: 100px;
-	background: #FFFFFFFF;
+	background: white;
 	width: 90%;
 	height: auto;
 	margin: 20px 100px;
